@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nagubadi Harish chowdari</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,React JS,REST API,Mongodb**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,ReactJS,REST API,Mongodb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harish-chowdari](https://github.com/harish-chowdari)
 

@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **harishnagubadi9190@gmail.com**
+- 📫 How to reach me **harishnagubadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

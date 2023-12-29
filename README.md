@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,ReactJS,REST API,Mongodb**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harish-chowdari](https://github.com/harish-chowdari)
+- 👨‍💻 All of my projects are available at [https://github.com/harish-chowdari?tab=repositories](https://github.com/harish-chowdari?tab=repositories)
 
 - 💬 Ask me about **web development**
 
